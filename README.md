@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I’m Prince, a B.Tech CSE (AI & ML) student interested in Software Development, Data Structures & Algorithms, and Web Development. I enjoy building projects, solving problems, and learning new technologies.
+CSE (AI & ML) @ B.Tech | DSA • Web Dev • Software Development | Always building, always learning
 
 
 ##  Socials:
